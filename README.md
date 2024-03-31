@@ -4,6 +4,7 @@
 ## Modern React
 - [Week 1: useMemo, useCallback, memo, useLayoutEffect](ModernReact/week1.md)
 - [Week 2: useReducer, SSR, Next.js](ModernReact/week2.md)
+- [Week 3: 상태관리, Prop Drilling, useDefferValue](ModernReact/week3.md)
 
 ## React Beginner
 - [Week 1: var, let, const](./Javscript/week1.md)
