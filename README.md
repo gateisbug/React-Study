@@ -6,6 +6,8 @@
 - [Week 2: useReducer, SSR, Next.js](ModernReact/week2.md)
 - [Week 3: 상태관리, Prop Drilling, useDefferValue](ModernReact/week3.md)
 - [Week 4: ESLint, CORS](ModernReact/week4.md)
+- [Week 5: Next.js 기초](ModernReact/week5.md)
+- [Week 6: use client](ModernReact/week6.md)
 
 ## React Beginner
 - [Week 1: var, let, const](./Javscript/week1.md)
