@@ -8,6 +8,7 @@
 - [Week 4: ESLint, CORS](ModernReact/week4.md)
 - [Week 5: Next.js 기초](ModernReact/week5.md)
 - [Week 6: use client](ModernReact/week6.md)
+- [Week 6: Nextjs Middleware, Infinite Scroll](ModernReact/week7.md)
 
 ## React Beginner
 - [Week 1: var, let, const](./Javscript/week1.md)
