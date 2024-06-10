@@ -1,6 +1,9 @@
 # React Study
 - React 스터디
 
+## DevLog
+- [24-06-10 개발일지](DevLog/24-06-10.md)
+
 ## Modern React
 - [Week 1: useMemo, useCallback, memo, useLayoutEffect](ModernReact/week1.md)
 - [Week 2: useReducer, SSR, Next.js](ModernReact/week2.md)
