@@ -5,9 +5,10 @@
 - [24-06-10 개발일지](DevLog/24-06-10.md)
 
 ## Self R&D
-- [Week 1: use client](./SelfR&D/week1)
-- [Week 2: Nextjs Middleware, Infinite Scroll](./SelfR&D/week2)
+- [24-12-13: Git Submodule](./SelfR&D/Git%20Submodule.md)
 - [Week 3: Electron](./SelfR&D/week3.md)
+- [Week 2: Nextjs Middleware, Infinite Scroll](./SelfR&D/week2)
+- [Week 1: use client](./SelfR&D/week1)
 
 ## Modern React
 - [Week 1: useMemo, useCallback, memo, useLayoutEffect](ModernReact/week1.md)
